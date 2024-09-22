@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "a05e",
+      "name": "awd",
+      "email": "awda",
+      "username": "wdaw"
+    },
+    {
+      "id": "b8fb",
+      "name": "awd",
+      "email": "awdawda",
+      "username": "wdaw"
+    },
+    {
+      "id": "5c02",
+      "name": "awd",
+      "email": "awdawda",
+      "username": "wdaw"
+    },
+    {
+      "id": "648a",
+      "name": "awd",
+      "email": "awda",
+      "username": "wdawd"
+    },
+    {
+      "id": "40dd",
+      "name": "awd",
+      "email": "awawdad",
+      "username": "dawd"
+    },
+    {
+      "id": "7980",
+      "name": "awd",
+      "email": "awd",
+      "username": "awdaw"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
